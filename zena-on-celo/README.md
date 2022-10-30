@@ -13,16 +13,20 @@ Berlin and Barcelona
 - Astrid, Frontend/Fullstack Engineer
 
 #### Project Description
-Finacial and Technical education does not exist sufficiently in German schools. The Web3 space can bring financial as well as technological topics to the table. This is why the idea for ZENA came up.
 
-ZENA is a web3 online/mobile-first education and onboarding tool for (German) teenagers that reduces the complexity of web3 concepts and enables them to build open source collaborative problem solving tools for their future.
+ZENA is a climate positive Web3 building block for young teenagers and educators based on a LEARN to IMPACT concept that enables them to combine learning with climate action in a complexity reducing, hands on, mobile first and gamified fun way.
 
-During Celo's hackathon, we want to leverage the project to a new level and focus on ReFi and regenerative token engineering education and empowerment. The ReFi learning chapter will include a theoretical introduction to ReFi concepts and a hands-on learning session, which is completely embedded in a safe space without handling a "real" wallet and coins, backed by Alfajores testnet. 
+ZENA wants to support young people in taking responsibility for themselves, for others, and for the world by providing infrastructure that connects web3 with environmental impact and social impact markets -the education sector- outside of crypto. 
 
-Our project aims to help (German) teenagers to close this knowledge gap by introducing web3 concepts and visions in a complexity reducing, hands on and gamified way. We want to encourage teachers and parents to use this modular tool in collaboration with their pupils and their own kids.
+We’re aiming to invite initiatives and companies to act as funders for our gaming-like concept, so we’re able to gather tokenized carbon credits like BCT upfront and can incentivize youths to learn and improve their knowledge for real-world impact rather than just levels, points, and high scores.
+
 
 #### Summary
-Describe the basic functionality of your project. What are the features you were able to implement? What features would you like to implement?
+During the Celo hackathon we have implemented an open source infrastructure called The Toucan Bridge into ZENA that connects the voluntary carbon market to Web3 by bringing carbon credits on-chain in a tokenized form. By completing learning chapters and quests the young user of ZENA mobile dApp will earn impact NFTs, sequestering tokenized carbon credits. 
+
+For now the NFT is only holding the carbon credit. Which doesn't really offset it, but it does lower supply which results in higher price and gets more people involved, which leads to less CO2 in the air. Later it will also be possible to retire carbon and to earn and retire a number of other eco credits. 
+
+Connecting web3 with climate resilience is more than just futuristic technology it is also about how young people can find their place in the world against barriers and uncertainties. That’s what we are building ZENA for.
 
 #### URLs
 List any URLs relevant to demonstrating your prototype
